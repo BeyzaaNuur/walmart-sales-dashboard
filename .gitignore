@@ -1,0 +1,4 @@
+*.pbix.bak
+~$*.pbix
+data/processed/
+.DS_Store
